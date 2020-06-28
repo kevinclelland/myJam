@@ -1,0 +1,9 @@
+{
+    "song": [
+        { "title": "Song name 1 - Rock n Roll" },
+        { "title": "Song name 2 Pop" },
+        { "title": "Song name 3 Blues" },
+        { "title": "Song name 4 Jazz" }
+
+    ]
+}
